@@ -1,0 +1,32 @@
+.navbar-nav{
+    align-items: center;
+}
+
+
+.about-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 0px;
+    padding: 13px 3px;
+    background-color: rgb(240, 227, 253);
+}
+
+.abouttext{
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    padding: 3px;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    
+
+}
+.layout-1{
+    color: yellow;
+    font-size: 34px;
+    padding: 5px 23px;
+    text-align: center;
+} 
